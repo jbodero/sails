@@ -27,7 +27,7 @@
     "@sailshq/lodash": "^3.10.2",
     "async": "2.6.4",
     "captains-log": "^2.0.0",
-    "chalk": "2.3.0",
+    "chalk": "2.4.2",
     "commander": "2.11.0",
     "common-js-file-extensions": "1.0.2",
     "compression": "1.7.1",
