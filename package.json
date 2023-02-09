@@ -28,7 +28,7 @@
     "async": "2.6.4",
     "captains-log": "^2.0.0",
     "chalk": "2.3.0",
-    "commander": "2.11.0",
+    "commander": "2.20.3",
     "common-js-file-extensions": "1.0.2",
     "compression": "1.7.1",
     "connect": "3.6.5",
